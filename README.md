@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Lucasanim/Lucasanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +23,4 @@ Hi 👋! I am Lucas, a focused, dedicated Full Stack Developer 👨‍💻. I'm 
 - 📫 How to reach me: https://www.linkedin.com/in/lucas-vazquez-9318431b1/
 - 😄 Hobbies: Learn new technologies, GYM and programming.
 - ⚡ You can find my professional projects in my Github repository or my personal portolio!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
