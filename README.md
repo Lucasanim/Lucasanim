@@ -27,7 +27,6 @@ Hi 👋! I am Lucas, a focused, dedicated Full Stack Developer 👨‍💻. I'm 
 - 🔭 I’m currently working on a social media application!
 - 🌱 I’m currently improving my skills with Express, MongoDB, React and React Native.
 - 👯 I’m looking to collaborate on a company or a team.
-- 📫 How to reach me: https://www.linkedin.com/in/lucas-vazquez-9318431b1/
 - 😄 Hobbies: Learn new technologies, GYM and programming.
 - ⚡ You can find my professional projects in my Github repository or my personal portolio!
 
