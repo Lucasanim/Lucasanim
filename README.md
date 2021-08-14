@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/lucas-vazquez-9318431b1/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [<img align="left" alt="codeSTACKr | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
@@ -27,11 +27,15 @@ Hi 👋! I am Lucas, a focused, dedicated Full Stack Developer 👨‍💻. I'm 
 - 🔭 I’m currently working on a social media application!
 - 🌱 I’m currently improving my skills with Express, MongoDB, React and React Native.
 - 👯 I’m looking to collaborate on a company or a team.
+- 📫 How to reach me: https://www.linkedin.com/in/lucas-vazquez-9318431b1/
 - 😄 Hobbies: Learn new technologies, GYM and programming.
 - ⚡ You can find my professional projects in my Github repository or my personal portolio!
 
 ### Connect with me:
 
+<a href="https://github.com/Lucasanim">
+  <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
