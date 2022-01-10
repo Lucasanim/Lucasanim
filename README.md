@@ -52,8 +52,11 @@ Hi 👋! I am Lucas, a focused, dedicated Full Stack Developer 👨‍💻. I'm 
   <img src="https://api.iconify.design/logos:nodejs.svg" alt="node" height="40" width="40"/>  
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="40" width="40"/>  
   <img src="https://api.iconify.design/logos:postgresql.svg" alt="postgreSQL" height="40" width="40"/> 
+   <img src="https://api.iconify.design/logos:mysql.svg" alt="MySQL" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:mongodb.svg" alt="mongodb" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/> 
+  <img src="https://api.iconify.design/logos:cib:next-js.svg" alt="NextJs" height="40" width="40"/> 
+  <img src="https://api.iconify.design/logos:springboot.svg" alt="Spring Boot" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:git.svg" alt="git" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:terminal.svg" alt="terminal" height="40" width="40"/> 
   <img src="https://api.iconify.design/logos:visual-studio.svg" alt="visualstudio" height="40" width="40"/> 
