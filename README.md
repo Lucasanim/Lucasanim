@@ -47,6 +47,7 @@ Hi 👋! I am Lucas, a focused, dedicated Full Stack Developer 👨‍💻. I'm 
   <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="40" width="40"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="40" width="40"/>
+  <img src="https://api.iconify.design/logos:typescript-icon.svg" alt="javascript" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:react.svg" alt="react" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="40" width="40"/>  
   <img src="https://api.iconify.design/logos:nodejs.svg" alt="node" height="40" width="40"/>  
