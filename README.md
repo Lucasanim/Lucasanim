@@ -68,12 +68,3 @@ Hi 👋! I am Lucas, a focused, dedicated Full Stack Developer 👨‍💻. I'm 
 <br />
 <br />
   
-   ---
-  
-  
-  <a href="https://github.com/Lucasanim">
-  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api?username=Lucasanim&show_icons=true&hide_border=true&count_private=true" alt="roro" />
-</a>
- <a href="https://github.com/Lucasanim">
-  <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/top-langs?username=Lucasanim&hide_border=true" alt="roro" />
-</a>
