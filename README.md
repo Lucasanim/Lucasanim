@@ -24,9 +24,8 @@ Hi 👋! I am Lucas, a focused, dedicated Full Stack Developer 👨‍💻. I'm 
 
 # I am a computer engineer student and a Full Stack Developer
 
-- 🔭 I’m currently working on a social media application!
-- 🌱 I’m currently improving my skills with Express, MongoDB, React and React Native.
-- 👯 I’m looking to collaborate on a company or a team.
+- 🔭 I’m currently working as a software engineer!
+- 🌱 I’m currently improving my skills with React, Node and Spring Boot.
 - 😄 Hobbies: Learn new technologies, GYM and programming.
 - ⚡ You can find my professional projects in my Github repository or my personal portolio!
 
