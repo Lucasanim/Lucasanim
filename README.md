@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif
 -->
-# Hi there, I'm Lucas!
+# Hi there!
 
 <img align='right' src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="250">
 
 
-Hi 👋! I am Lucas, a focused, dedicated Full Stack Developer 👨‍💻. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Spring Boot, Elastic Search, PosgreSQL and MongoDB.
+Hi 👋! I am Lucas, a focused, dedicated Software engineer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Spring Boot, Elastic Search, PosgreSQL and MongoDB.
 
 # I am a computer engineer student and a Full Stack Developer
 
 - 🔭 I’m currently working as a software engineer!
 - 🌱 I’m currently improving my skills with React, Node and Spring Boot.
-- 😄 Hobbies: Learn new technologies, GYM and programming.
+- 😄 Hobbies: Learn new technologies, GYM, artificial intelligence and programming.
 - ⚡ You can find my professional projects in my Github repository or my personal portolio!
 
 ### Connect with me:
