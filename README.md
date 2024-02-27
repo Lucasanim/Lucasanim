@@ -20,14 +20,13 @@ https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif
 <img align='right' src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="250">
 
 
-Hi 👋! I am Lucas, a focused, dedicated Software engineer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know: JavaScript, React, Redux, HTML5, CSS, NodeJs, Express, Spring Boot, Elastic Search, PosgreSQL and MongoDB.
+Hi 👋! I am Lucas, a focused and dedicated Software engineer.
+I'm a computer engineering student passionate about solving problems, learning new technologies and mastering the ones I already know. I currently serve as a Software engineer and leader maintaining and developing scalable and reliable systems.
 
-# I am a computer engineer student and a Full Stack Developer
+<a href="https://lucasanim.github.io/Lucas-Vazquez-portfolio/">
+  <p>Click here to know more about me in my personal portfolio!</p>
+</a>
 
-- 🔭 I’m currently working as a software engineer!
-- 🌱 I’m currently improving my skills with React, Node and Spring Boot.
-- 😄 Hobbies: Learn new technologies, GYM, artificial intelligence and programming.
-- ⚡ You can find my professional projects in my Github repository or my personal portolio!
 
 ### Connect with me:
 
